@@ -1,5 +1,7 @@
 # Theoretical Concepts in Machine Learning
-
+```
+These are some concepts that led to the "Machine Learning" that we know today.
+```
 ### Hypothesis Space:
 The hypothesis space refers to the set of all possible hypotheses or candidate models that a machine learning algorithm can create to make predictions or classifications. 
 
