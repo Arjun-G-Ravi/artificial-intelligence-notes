@@ -1,7 +1,7 @@
 # Data
 The quality and nature of the training data are critical components of a learned model's success, alongside the development of effective models and algorithms. Thus the quality and quanity of the dataset play a huge role in the quality of the ML model created.
 
-# Common datasets
+# Common datasets (for beginners) that you should know about
 
 ## Image datasets
 1. MNIST (V. simple)
