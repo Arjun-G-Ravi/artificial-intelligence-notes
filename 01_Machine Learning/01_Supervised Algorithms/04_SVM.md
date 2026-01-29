@@ -19,3 +19,11 @@ Thus, SVM creates a decision boundary on the data, which can be used for classif
 If the datapoints cannot be separated by a linear hyperplane (inherent Non-Linearity in data), what will we do? Indeed, if we manage to transform the original space into a space of higher dimensionality, we could hope that the examples will become linearly separable in this transformed space. In SVMs, using a function to implicitly transform the original space into a higher dimensional space during the cost function optimization is called the kernel trick.
 
 ![Alt text](image-6.png)
+
+Converting every data point into a high dimension, is very slow. So, ?
+
+#### Common Kernel Functions
+- Linear Kernel
+- Polynomial Kernel
+- RBF Kernel
+- Sigmoid Kernel
